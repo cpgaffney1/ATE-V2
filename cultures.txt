@@ -2071,6 +2071,268 @@ american_cultures = {
 				Wilson Wright Young 
 		}
 	}
+}
+
+texan_cultures = {
+	leader = european
+	is_overseas = no
+	texan = {
+		color = {153 0 0}
+		first_names = {Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
+		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+		}
+		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
+		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins
+		}
+	}
+	tejano = {
+		color = {90 0 0}
+		first_names = {Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
+		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+		}
+		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
+		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins
+		}
+	}
+	newmexican = {
+		color = {200 0 0}
+		first_names = {Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
+		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+		}
+		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
+		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins
+		}
+	}
+	union = TEX
+}
+
+pacific_cultures = {
+	leader = european
+	is_overseas = no
+	californian = {
+		color = {230 200 50}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	arizonan = {
+		color = {230 170 50}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	californio = {
+		color = {230 230 50}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	union = CAL
+}
+
+columbian_cultures = {
+	leader = european
+	is_overseas = no
+	columbian = {
+		color = {40 20 200}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	jeffersonian = {
+		color = {40 200 200}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+}
+
+midwestern_cultures = {
+	leader = european
+	is_overseas = no
+	ohioan = {
+		color = {255 153 204}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	michiganese = {
+		color = {160 160 160}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	illinois = {
+		color = {102 0 51}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	wisconsinese = {
+		color = {0 204 102}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	minnesotan = {
+		color = {0 102 51}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	iowan = {
+		color = {153 153 0}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	missourian = {
+		color = {51 51 0}
+		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre 
+		Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
+		"Fitz Hugh" Carnot Ezra Wilton
+		}
+	
+		last_names = { Lee Jackson Johnson Beauregard Stuart Longstreet Forrest Pickett Mosby Cleburne Hood Breckenridge Bragg 
+		Barksdale Early Hill Ewell Morgan Armistead Semmes Smith Hampton Polk Cheatham Wheeler Pemberton Gordon Hardee Floyd Price 
+		Wise "Van Dorn" Loring Buckner Taylor Williams French Gibbs Hindman Anderson Sibley Garnett Magruder Pillow McLaws Rodes Heth 
+		Pender Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins
+		}
+	}
+}
+
+southern_cultures = {
+	leader = european
+	is_overseas = no
 	dixie = {
 		color = {129 129 129}
 		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
@@ -2086,17 +2348,115 @@ american_cultures = {
 		Davis Lane Posey Scales Warner Imboden Jenkins
 		}
 	}
-	texan = {
-		color = {153 0 0}
-		first_names = {Hamilton Matthew Richard Hiram Thomas Elkanah John William James Albert Wilburn Walter Hinchie Samuel Benjamin 
-		Henry Allison Horace Felix Jerome Lawrence Alexander Louis
+	virginian = {
+		color = {64 64 64}
+		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre 
+		Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
+		"Fitz Hugh" Carnot Ezra Wilton
 		}
-		last_names = {Bee Ector Gano Granbury Green Greer Gregg Hardeman Harrison Hood Johnston King Lane Mabry Maxey McCulloch Moore 
-		Nelson Randal Robertson Ross Rosser Scurry Steele Terrell Waterhouse Waul Wharton Whitfield Wigfall Young Bowie Travis Houston
+	
+		last_names = { Lee Jackson Johnson Beauregard Stuart Longstreet Forrest Pickett Mosby Cleburne Hood Breckenridge Bragg 
+		Barksdale Early Hill Ewell Morgan Armistead Semmes Smith Hampton Polk Cheatham Wheeler Pemberton Gordon Hardee Floyd Price 
+		Wise "Van Dorn" Loring Buckner Taylor Williams French Gibbs Hindman Anderson Sibley Garnett Magruder Pillow McLaws Rodes Heth 
+		Pender Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins
 		}
-		radicalism = 10
 	}
-	union = USA
+	floridan = {
+		color = {51 51 255}
+		first_names = { Robert Jesse James Nathan George Joseph John Patrick Albert Braxton William Ambrose Jubal Richard 
+		Lewis Edmund Leonida Benjamin Wade Daniel Thomas Jonathan Stonewall Lemual Sterling Raphael Kirby Pierre 
+		Jonas Frank Charles Peter Rand Leslie Howard Malvin Oscar Henry Simon Edward Gideon Isaac Evander Jerome Alfred Cadmus
+		"Fitz Hugh" Carnot Ezra Wilton
+		}
+	
+		last_names = { Lee Jackson Johnson Beauregard Stuart Longstreet Forrest Pickett Mosby Cleburne Hood Breckenridge Bragg 
+		Barksdale Early Hill Ewell Morgan Armistead Semmes Smith Hampton Polk Cheatham Wheeler Pemberton Gordon Hardee Floyd Price 
+		Wise "Van Dorn" Loring Buckner Taylor Williams French Gibbs Hindman Anderson Sibley Garnett Magruder Pillow McLaws Rodes Heth 
+		Pender Trimble Kershaw Wofford Kemper Law Robertson Benning Hays Walker Iverson Wilcox Mahone Wright Pettigrew Archer 
+		Davis Lane Posey Scales Warner Imboden Jenkins
+		}
+	}
+}
+
+northeastern_cultures = {
+	leader = european
+	is_overseas = no
+	newyorker = {
+		color = {127 0 255}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	appalachian = {
+		color = {51 0 102}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	newenglish = {
+		color = {204 153 255}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
+	union = NEN
+}
+
+rockies_cultures = {
+	leader = european
+	is_overseas = no
+	mormon_culture = {
+		color = {255 255 255}
+		first_names = { Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
+				Joseph Charles Russell Benjamin Robert Christopher Richard Chester Lafayette Nathaniel Francis James Donald Cyrus Ambrose
+				Edward Eugene Augustus Norton Abner Isaac Amos Thomas Randolph
+		}
+		last_names = { Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
+				Armstrong Arthur Atkins Asboth Babcock Baker Pope Banks Barnard Barnes Barnum Barry Barstow Bartlett Bates 
+				Baxter Beatty Belknap Benton Blair Blunt Bradley Brown Buell Buford Burnside Butler Caldwell Campbell Carr
+				Chapman Chipman Clayton Coburn Connor Conrad Cook Cooper Crittenden Custer Davies Davis Doubleday Ewing Farnsworth 
+				Ford Forsyth Foster Franklin Fry Gilbert Gregg Griffin Halleck Hamlin Hancock Harrison Hatch Hayes Heintzelman
+				Hooker Howard Hunter Jackson Johnson Jones Keyes Kimball Lyon McArthur McClellan McCook McDowell Meade Mitchell
+				Morgan Paine Phelps Porter Potter Reynolds Rice Rhodes Robinson Rosencrans Saloman Schenck Schofield Scott Sedgwick
+				Seward Sheridan Sickles Sprague Stevens Stevenson Stone Sullivan Taylor Tyler Wade Wadsworth Wallace Ward Warner
+				Wilson Wright Young 
+		}
+	}
 }
 
 neo_european_cultures = {
@@ -2135,7 +2495,7 @@ neo_european_cultures = {
 	alaskan = {
 		color = { 14 139 80 }
 			first_names = {Adam Alexander William Henry Michael Samuel Joshua George John Matthew Mark Luke Lucas Jeffrey Ulysses 
-			Joseph Charles Russell eksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
+			Joseph Charles Russell Aleksandr Alexei Andrei Anton Boris Dmitry Fyodor Gennady Giorgi Grigoriy Igor Ivan Kirill Konstantin Lavr Leonid Lev Maxim 
 			Mikhail Nikita Nikolai Oleg Pavel Pyotr Roman Semyon Sergei Valery Vasily Viktor Vladimir Vladislav Yegor Yevgeny Yuri
 			}
 		last_names = {Smith Washington Grant Sherman Chamberlain Powell Clemens Abbott Abercrombie Allen Ames Anderson Barkhauer Andrews Appleton
